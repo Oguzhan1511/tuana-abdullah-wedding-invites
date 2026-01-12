@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 const LocationSection = () => {
   const handleOpenMaps = () => {
     window.open(
-      "https://maps.google.com/?q=Garden+Palace+Istanbul",
+      "https://maps.google.com/?q=Mira+Wedding+Avcılar+İstanbul",
       "_blank"
     );
   };
@@ -44,7 +44,7 @@ const LocationSection = () => {
                 <div className="w-16 h-16 rounded-full bg-seal flex items-center justify-center mx-auto mb-3 shadow-lg">
                   <MapPin className="w-8 h-8 text-primary-foreground" />
                 </div>
-                <p className="font-serif text-lg text-foreground">Garden Palace</p>
+                <p className="font-serif text-lg text-foreground">Mira Wedding</p>
               </motion.div>
             </div>
             
@@ -56,10 +56,10 @@ const LocationSection = () => {
 
           <div className="p-6 md:p-8 text-center">
             <h3 className="font-serif text-2xl text-foreground mb-2">
-              Garden Palace
+              Mira Wedding
             </h3>
             <p className="text-muted-foreground font-body mb-6">
-              Beşiktaş, İstanbul • Türkiye
+              Avcılar, İstanbul • Türkiye
             </p>
             
             <Button
