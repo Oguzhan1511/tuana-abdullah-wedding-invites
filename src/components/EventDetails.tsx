@@ -6,7 +6,7 @@ const EventDetails = () => {
     {
       icon: Calendar,
       title: "Tarih",
-      info: "15 Haziran 2025",
+      info: "19 Haziran 2026",
       subtitle: "Cuma",
     },
     {
