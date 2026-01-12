@@ -7,19 +7,19 @@ const EventDetails = () => {
       icon: Calendar,
       title: "Tarih",
       info: "15 Haziran 2025",
-      subtitle: "Cumartesi",
+      subtitle: "Cuma",
     },
     {
       icon: Clock,
       title: "Saat",
-      info: "18:30",
+      info: "19:00",
       subtitle: "Tören Başlangıcı",
     },
     {
       icon: MapPin,
       title: "Konum",
-      info: "Garden Palace",
-      subtitle: "İstanbul, Türkiye",
+      info: "Mira Wedding",
+      subtitle: "Avcılar, İstanbul",
     },
   ];
 
