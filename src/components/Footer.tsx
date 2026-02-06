@@ -14,7 +14,7 @@ const Footer = () => {
           Tuana & Abdullah
         </p>
         <p className="text-muted-foreground font-body flex items-center justify-center gap-2">
-          <span>15 Haziran 2025</span>
+          <span>19 Haziran 2026</span>
           <Heart className="w-4 h-4 fill-seal text-seal" />
           <span>İstanbul</span>
         </p>
